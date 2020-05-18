@@ -39,6 +39,7 @@ public:
 };
 
 ```
+![Image description](https://github.com/kichyr/AcronisParallelProgramming/blob/master/bench_results/kichyr_ticket.png)
 
 ## TTAS Lock
 
