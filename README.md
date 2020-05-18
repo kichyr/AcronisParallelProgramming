@@ -87,6 +87,7 @@ public:
 };
 
 ```
+![Image description](https://github.com/kichyr/AcronisParallelProgramming/blob/master/bench_results/kichyr_ttas.png)
 
 
 ## Matrix
@@ -147,3 +148,5 @@ int main(int argc, char *argv[]) {
     multiply(N, N, N, A, B, C);
 }
 ```
+
+![Image description](https://github.com/kichyr/AcronisParallelProgramming/blob/master/bench_results/matrix.png)
